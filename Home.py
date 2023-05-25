@@ -4,6 +4,7 @@ import folium
 import re
 import plotly.express as px
 from haversine import haversine
+import inflection
 import plotly.graph_objects as go
 from streamlit_folium import folium_static
 
