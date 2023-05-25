@@ -5,7 +5,6 @@ import re
 import plotly.express as px
 from haversine import haversine
 import plotly.graph_objects as go
-import inflection
 from streamlit_folium import folium_static
 
 # Bibliotecas necessárias
